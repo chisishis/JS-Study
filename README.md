@@ -1,2 +1,2 @@
-# Repository for Javascript studying 
+# Repository for Javascript self-study
 
