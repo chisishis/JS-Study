@@ -10,3 +10,4 @@
 
 ## Study 
 1. [GIT](https://classroom.udacity.com/courses/ud456).
+2. [Design Patterns](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
