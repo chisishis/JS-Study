@@ -1,4 +1,4 @@
-# Repository for Javascript self-study
+# Repository for Programming 
 
 ## Tools for Developers
 
@@ -8,3 +8,5 @@
 4. [NPM Package Building](https://www.pikapkg.com/blog/introducing-pika-pack/)
 5. [Convert Google sheets to API](https://sheety.co/)
 
+## Study 
+1. [GIT](https://classroom.udacity.com/courses/ud456).
